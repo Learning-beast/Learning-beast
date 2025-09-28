@@ -1,3 +1,5 @@
+![logo](https://github.com/Learning-beast/Learning-beast/blob/main/mario.gif)
+
 <h1 align="center">Hi 👋, I'm Harsh Singh Parihar</h1>
 <h3 align="center">A passionate Cloud Engineer & Frontend Developer from India</h3>
 
