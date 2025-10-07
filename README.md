@@ -16,9 +16,7 @@
 ## Connect with me
 
 <p align="left" style="margin-bottom: 30px;">
-  <a href="https://twitter.com/harsh singh" target="blank" style="margin-right: 15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh singh" height="30" width="40" />
-  </a>
+  
   <a href="https://linkedin.com/in/harsh singh parihar" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh singh parihar" height="30" width="40" />
   </a>
